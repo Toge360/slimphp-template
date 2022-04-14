@@ -1,2 +1,2 @@
-# slimphp-template
-Bas configuration slimPHP
+# frieda-api
+"fitmachen 2.0"
