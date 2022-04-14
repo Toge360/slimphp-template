@@ -1,2 +1,2 @@
-# frieda-api
-"fitmachen 2.0"
+# slimPHP Template
+
